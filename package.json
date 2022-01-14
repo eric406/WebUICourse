@@ -1,0 +1,22 @@
+{
+  "name": "webuicourse",
+  "version": "1.0.0",
+  "description": "This is a test directorry for git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric406/WebUICourse.git"
+  },
+  "author": "Eric Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric406/WebUICourse/issues"
+  },
+  "homepage": "https://github.com/eric406/WebUICourse#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
